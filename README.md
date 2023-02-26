@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# NOTE
+
+Before running the application need to to run `yarn seed` for creating students data
+
 ## Available Scripts
 
 In the project directory, you can run:
