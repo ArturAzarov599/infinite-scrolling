@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@store/*": [
+        "./store/*"
+      ],
+      "@components/*": [
+        "./components/*"
+      ],
+      "@interfaces/*": [
+        "./interfaces/*"
+      ],
+      "@assets/*": [
+        "./assets/*"
+      ],
+      "@mocks/*": [
+        "./mocks/*"
+      ]
+    }
+  }
+}

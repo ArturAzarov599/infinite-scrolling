@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn seed`
+
+Launches creation of mocked students data, it don't do this, the application will crash
+
 ### `yarn start`
 
 Runs the app in the development mode.\
